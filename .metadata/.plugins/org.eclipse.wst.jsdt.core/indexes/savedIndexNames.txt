@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\Shivaya.Gupta\eclipse-docker1\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+524960211.index
