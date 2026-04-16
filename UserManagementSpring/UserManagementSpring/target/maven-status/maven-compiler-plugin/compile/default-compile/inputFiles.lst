@@ -1,0 +1,16 @@
+/workspaces/DockerApp/UserManagementSpring/UserManagementSpring/src/main/java/com/coforge/ServletInitializer.java
+/workspaces/DockerApp/UserManagementSpring/UserManagementSpring/src/main/java/com/coforge/UserManagementSpringApplication.java
+/workspaces/DockerApp/UserManagementSpring/UserManagementSpring/src/main/java/com/coforge/configuration/Config.java
+/workspaces/DockerApp/UserManagementSpring/UserManagementSpring/src/main/java/com/coforge/configuration/DevProfileConfig.java
+/workspaces/DockerApp/UserManagementSpring/UserManagementSpring/src/main/java/com/coforge/configuration/ProductionProfilesConfig.java
+/workspaces/DockerApp/UserManagementSpring/UserManagementSpring/src/main/java/com/coforge/configuration/package-info.java
+/workspaces/DockerApp/UserManagementSpring/UserManagementSpring/src/main/java/com/coforge/controller/UserContro.java
+/workspaces/DockerApp/UserManagementSpring/UserManagementSpring/src/main/java/com/coforge/controller/package-info.java
+/workspaces/DockerApp/UserManagementSpring/UserManagementSpring/src/main/java/com/coforge/dao/UserDao.java
+/workspaces/DockerApp/UserManagementSpring/UserManagementSpring/src/main/java/com/coforge/dao/package-info.java
+/workspaces/DockerApp/UserManagementSpring/UserManagementSpring/src/main/java/com/coforge/entity/User.java
+/workspaces/DockerApp/UserManagementSpring/UserManagementSpring/src/main/java/com/coforge/entity/package-info.java
+/workspaces/DockerApp/UserManagementSpring/UserManagementSpring/src/main/java/com/coforge/repo/UserRepo.java
+/workspaces/DockerApp/UserManagementSpring/UserManagementSpring/src/main/java/com/coforge/repo/package-info.java
+/workspaces/DockerApp/UserManagementSpring/UserManagementSpring/src/main/java/com/coforge/service/UserService.java
+/workspaces/DockerApp/UserManagementSpring/UserManagementSpring/src/main/java/com/coforge/service/package-info.java

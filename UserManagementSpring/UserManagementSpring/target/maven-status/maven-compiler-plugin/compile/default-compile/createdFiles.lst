@@ -1,0 +1,16 @@
+com/coforge/service/package-info.class
+com/coforge/entity/package-info.class
+com/coforge/service/UserService.class
+com/coforge/dao/UserDao.class
+com/coforge/dao/package-info.class
+com/coforge/controller/package-info.class
+com/coforge/UserManagementSpringApplication.class
+com/coforge/repo/package-info.class
+com/coforge/ServletInitializer.class
+com/coforge/configuration/ProductionProfilesConfig.class
+com/coforge/entity/User.class
+com/coforge/controller/UserContro.class
+com/coforge/repo/UserRepo.class
+com/coforge/configuration/Config.class
+com/coforge/configuration/package-info.class
+com/coforge/configuration/DevProfileConfig.class
